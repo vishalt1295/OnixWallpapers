@@ -1,0 +1,45 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Kyaw Tun",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Fish.jpg",
+			"name": "Fish"
+		},
+		{
+			"author": "Annie Spratt",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Flowers.jpg",
+			"name": "Flowers"
+		},
+		{
+			"author": "Nathan Dumlao",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Sunrise.jpg",
+			"name": "Sunrise"
+		},
+		{
+			"author": "Ryan Park",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Sky.jpg",
+			"name": "Sky"
+		},
+		{
+			"author": "Thomas Quaritsch",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Snow.jpg",
+			"name": "Snow"
+		},
+		{
+			"author": "Markus Spiske",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Tree.jpg",
+			"name": "Tree"
+		},
+		{
+			"author": "Roman Khripkov",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/View.jpg",
+			"name": "View"
+		},
+		{
+			"author": "John Lockwood",
+			"url": "https://raw.githubusercontent.com/vishalt1295/OnixWallpapers/master/Water.jpg",
+			"name": "Water"
+		}
+	]
+}
